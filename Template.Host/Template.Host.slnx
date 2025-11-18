@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../Template.Model/Template.Model.csproj" />
+  <Project Path="../Template.Shared/Template.Shared.csproj" />
+  <Project Path="../Template.View/Template.View.csproj" />
+  <Project Path="../Template.ViewModel/Template.ViewModel.csproj" />
+  <Project Path="Template.Host/Template.Host.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
