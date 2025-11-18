@@ -53,4 +53,4 @@ Após isso, você poderá encontrar seu template na tela "Criar um novo projeto"
 Você também pode simplesmente clonar este repositório e renomear os projetos e namespaces manualmente para se adequarem à sua nova aplicação.
 
 ```bash
-git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
+git clone [https://github.com/Rittinho/.Net-Maui-Generic-Template.git](https://github.com/Rittinho/.Net-Maui-Generic-Template.git)
